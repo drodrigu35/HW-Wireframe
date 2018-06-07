@@ -1,0 +1,114 @@
+body {
+background-color: #777
+}
+
+h6 {
+position: center;
+color: #777;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+font-size: 18px;
+margin: auto;
+padding: 30px;
+height: 30px;
+width: 960px;
+background-color: #ebebeb;
+
+}
+
+h5{
+position: relative;
+color: #777;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+font-size: 18px;
+top: 10px;
+margin: auto;
+padding: 30px;
+height: 30px;
+width: 960px;
+background-color: #ebebeb;
+}
+
+div.relative {
+    position: relative;
+    color: #777;
+    top: 30px;
+    padding-top: 40px;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    width: 500px;
+    height: 250px;
+    left: 160px;
+    background-color: #ebebeb;
+}
+
+
+div {
+    position: relative;
+    color: #777;
+    top: -260px;
+    left: 685px;
+    padding-top: 40px;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    width: 495px;
+    height: 250px;
+    background-color: #ebebeb;
+
+}
+
+div.absolute {
+    position: absolute;
+    top: 300px;
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: white;
+    font-size: 18px;
+    width: 480px;
+    height: 177px;
+    left: 178px;
+    background-color:  #777;
+}
+
+.div2 {
+    position: absolute;
+    top: 350px;
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    width: 450px;
+    height: 40px;
+    left: 192px;
+    background-color:  #ebebeb;
+}
+
+.div3 {
+    position: absolute;
+    top: 420px;
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    width: 450px;
+    height: 40px;
+    left: 192px;
+    background-color:  #ebebeb;
+}
+
+.footer {
+    position: fixed;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 18px;
+    left: 170px;
+    top: 530px;
+    bottom: 0px;
+    height: 40px;
+    width: 1020px;
+    background-color: #ebebeb;
+    
+ }
